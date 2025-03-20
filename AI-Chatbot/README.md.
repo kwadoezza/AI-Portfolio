@@ -1,0 +1,19 @@
+# AI Chatbot 🤖
+A simple AI-powered chatbot using OpenAI GPT.
+
+## Installation
+1. Clone this repository
+
+git clone https://github.com/kwadoezza/AI-Portfolio.git
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Run the chatbot:
+
+python chatbot.py
+
+## Features:
+- Uses OpenAI API for generating responses
+- Simple command-line interface
